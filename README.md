@@ -1,5 +1,7 @@
 # Bem-vindo(a) ao K8S-Project! 
-<img src="https://download.logo.wine/logo/Kubernetes/Kubernetes-Logo.wine.png" width="300">
+<img src="https://drive.google.com/uc?export=view&id=178nPYkX3IMaIsp9JnjiBNUSlPVXI1e7L" width="1000">
+
+
 
 Projeto contendo os arquivos .TF para o provisionamento da infraestrutura (cluster k8s) no serviço IaaS da Digital Ocean. Apliquei a licença mais permissiva possível; dessa forma, todos podem usar o código como desejarem. Caso considerem justo, por favor, atribuam os devidos créditos. O importante é que seja útil para o maior número possível de pessoas.
 
