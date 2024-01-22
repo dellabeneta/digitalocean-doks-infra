@@ -1,7 +1,4 @@
-# Bem-vindo(a) ao K8S-Project | 1/3 
-Essa é a parte "um" do projeto. Aqui a lista completa com as 3/3 partes:
-https://github.com/dellabeneta/k8s-project-terraform-infraas
-https://github.com/dellabeneta/k8s-project-kubernetes-doks
+# Bem-vindo(a) ao K8S-Project - TERRAFORM
 
 <img src="https://drive.google.com/uc?export=view&id=1OxV28f0W6-AcOZ1dFleUt6lOQMye84FV" width="1000">
 
