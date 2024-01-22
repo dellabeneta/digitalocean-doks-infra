@@ -1,13 +1,13 @@
-# Bem-vindo(a) ao K8S-Project! 
+# Bem-vindo(a) ao K8S-Project | 1/3 
+Essa é a parte "um" do projeto. Aqui a lista completa com as 3/3 partes:
+https://github.com/dellabeneta/k8s-project-terraform-infraas
+https://github.com/dellabeneta/k8s-project-kubernetes-doks
+
 <img src="https://drive.google.com/uc?export=view&id=1OxV28f0W6-AcOZ1dFleUt6lOQMye84FV" width="1000">
 
-
-
-Projeto contendo os arquivos .TF para o provisionamento da infraestrutura (cluster k8s) no serviço IaaS da Digital Ocean. Apliquei a licença mais permissiva possível; dessa forma, todos podem usar o código como desejarem. Caso considerem justo, por favor, atribuam os devidos créditos. O importante é que seja útil para o maior número possível de pessoas.
-
+Projeto contendo os arquivos .TF para o provisionamento da infraestrutura (cluster k8s) no serviço IaaS da Digital Ocean.
 
 # O ambiente usado para o projeto foi:
-
 
 #### Linux Ubuntu 22.04.3 LTS (Jammy Jellyfish) via WSL2
 Ref.: https://canonical-ubuntu-wsl.readthedocs-hosted.com/en/latest/guides/install-ubuntu-wsl2/
