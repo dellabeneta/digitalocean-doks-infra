@@ -25,3 +25,7 @@ output "registry_name" {
 output "registry_endpoint" {
   value = digitalocean_container_registry.k8s-registry.endpoint
 }
+
+output "domain_name_url" {
+  value = digitalocean_domain.domain.name
+}
