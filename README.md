@@ -15,6 +15,8 @@ Ref.: https://canonical-ubuntu-wsl.readthedocs-hosted.com/en/latest/guides/insta
 #### Terraform = v1.7.0 (on linux_amd64)
 Ref.: https://developer.hashicorp.com/terraform/install
 
+> Entendimento importante: para que o CLI do Terraform possa se conectar ao provider Digital Ocean, obtenha ajuda em: https://registry.terraform.io/providers/digitalocean/digitalocean/latest/docs 
+
 #### Doctl CLI = 1.101.0-release
 Ref.: https://docs.digitalocean.com/reference/doctl/how-to/install/
 
