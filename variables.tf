@@ -36,5 +36,5 @@ variable "vpc_range" {
 # variáveis de uso do objeto registry
 
 variable "registry_name" {
-  default = "k8s-registry"
+  default = "dellabeneta-k8s-project"
 }
