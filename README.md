@@ -1,4 +1,5 @@
 ## K8S-Project | TERRAFORM e DIGITALOCEAN com DOKS
+Faz parte da playlist de vídeos no YT: https://youtube.com/playlist?list=PLXV200dpiF4UFLIPNe9JNARiEAnfjOKZ8&si=gQAQr4tFqVOYbSiG
 
 <img src="https://drive.google.com/uc?export=view&id=1OxV28f0W6-AcOZ1dFleUt6lOQMye84FV" width="1000">
 
